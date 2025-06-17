@@ -8,5 +8,5 @@ try:
     else:
         print(f"The number {user_input} is not a dicimal.")
 
-expept ValueError:
+except ValueError:
     print("That's not a valid number.")
