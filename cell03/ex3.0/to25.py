@@ -1,9 +1,7 @@
-user_number = in(input("Enter a number: "))
+number = float(input("Enter a number: "))
 
-if user_input > 25:
+if number > 25:
     print("Error")
 else:
-    for num in range(user_input(number), 26):
-        print(num)
-except ValueError:
-    print("Please enter a valid integer.")
+     for  i in range(int(number), 26):
+          print(i)

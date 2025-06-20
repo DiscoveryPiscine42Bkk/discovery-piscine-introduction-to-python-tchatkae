@@ -1,3 +1,3 @@
 first_name = "Theerada"
 Last_name = "Chatkaew"
-Print(first_name,Last_name)
+print(first_name,Last_name)

@@ -8,6 +8,6 @@ def print_multiplication_tables():
             result = i * j
             print(f" {i} x {j} = {result}")
 
-      print("")
+        print("")
 
 print_multiplication_tables()
